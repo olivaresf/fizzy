@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/basecamp/lexxy
-  revision: 7c197c0afc7095c89df9cb6e24484df9e7212ac8
+  revision: 4f0fc4d5773bc6892de70f175440c259974c12a7
   specs:
-    lexxy (0.1.24.beta)
+    lexxy (0.7.0.beta)
       rails (>= 8.0.2)
 
 GIT
@@ -118,8 +118,8 @@ GEM
   specs:
     action_text-trix (2.1.16)
       railties
-    addressable (2.8.7)
-      public_suffix (>= 2.0.2, < 7.0)
+    addressable (2.8.8)
+      public_suffix (>= 2.0.2, < 8.0)
     ast (2.4.3)
     autotuner (1.1.0)
     aws-eventstream (1.4.0)
@@ -147,7 +147,7 @@ GEM
     benchmark (0.5.0)
     bigdecimal (4.0.1)
     bindex (0.8.1)
-    bootsnap (1.20.1)
+    bootsnap (1.21.1)
       msgpack (~> 1.2)
     brakeman (7.1.2)
       racc
@@ -327,7 +327,7 @@ GEM
     psych (5.3.1)
       date
       stringio
-    public_suffix (6.0.2)
+    public_suffix (7.0.2)
     puma (7.1.0)
       nio4r (~> 2.0)
     raabro (1.4.0)
@@ -351,7 +351,7 @@ GEM
       nokogiri (>= 1.15.7, != 1.16.7, != 1.16.6, != 1.16.5, != 1.16.4, != 1.16.3, != 1.16.2, != 1.16.1, != 1.16.0.rc1, != 1.16.0)
     rainbow (3.1.1)
     rake (13.3.1)
-    rdoc (7.0.3)
+    rdoc (7.1.0)
       erb
       psych (>= 4.0.0)
       tsort
@@ -449,7 +449,7 @@ GEM
     timeout (0.6.0)
     trilogy (2.9.0)
     tsort (0.2.0)
-    turbo-rails (2.0.20)
+    turbo-rails (2.0.21)
       actionpack (>= 7.1.0)
       railties (>= 7.1.0)
     tzinfo (2.0.6)
